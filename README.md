@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @rhaeen
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on web development/ android development/ mobile development
-- 📫 How to reach me- rhaeens@gmail.com
+- 💻 Software Developer — experience across Android (Kotlin, Jetpack Compose) and currently expanding into Flutter
+- 🎓 MCA student, actively looking for developer roles
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Everything is achievable 
+- ⚡ Fun fact: Everything is achievable
+- 📫 Reach me at rhaeens@gmail.com
 
 <!---
 rhaeen/rhaeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
